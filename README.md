@@ -6,7 +6,7 @@ You'll still need an LDAP password to view grades, don't get ahead of yourself.
 Get your grades quickly from the command line without having to log in repeatedly.   
 
 Usage:
-1. Install the required librabries by running
+1. Install the required librabries by running   
 `pip install -r requirement.txt`   
 2. Login with your ldap credentials   
 `python grades.py login`   
