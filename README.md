@@ -9,11 +9,11 @@ Usage:
 1. Install the required librabries by running   
 `pip install -r requirements.txt`
 <br>
-2. Login with your ldap credentials
+2. Login with your ldap credentials<br>
 `python grades.py login`   
 <br>
-3. View CGPA and Grades of the *latest sem*
+3. View CGPA and Grades of the *latest sem*<br>
 `python grades.py show`   
 <br>
-4. You can logout (if you want to)   
+4. You can logout (if you want to)<br>
 `python grades.py logout`
